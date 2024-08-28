@@ -1,0 +1,103 @@
+2024-08-27 20:54:37,077 - root - INFO - driver launched
+2024-08-27 20:54:37,077 - root - INFO - driver launched
+2024-08-27 20:54:37,077 - root - INFO - driver launched
+2024-08-27 20:54:39,308 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2024-08-27 20:54:39,308 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2024-08-27 20:54:39,308 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2024-08-27 20:54:39,382 - root - INFO - *****test_login_ddt Started*****
+2024-08-27 20:54:39,382 - root - INFO - *****test_login_ddt Started*****
+2024-08-27 20:54:39,382 - root - INFO - *****test_login_ddt Started*****
+2024-08-27 20:54:40,867 - root - INFO - Login Successful
+2024-08-27 20:54:40,867 - root - INFO - Login Successful
+2024-08-27 20:54:40,867 - root - INFO - Login Successful
+2024-08-27 20:54:40,867 - root - INFO - test_login_ddt Passed
+2024-08-27 20:54:40,867 - root - INFO - test_login_ddt Passed
+2024-08-27 20:54:40,867 - root - INFO - test_login_ddt Passed
+2024-08-27 20:54:42,624 - root - INFO - *****test_login_ddt Completed*****
+2024-08-27 20:54:42,624 - root - INFO - *****test_login_ddt Completed*****
+2024-08-27 20:54:42,624 - root - INFO - *****test_login_ddt Completed*****
+2024-08-27 20:54:43,445 - root - INFO - Login Unsuccessful
+2024-08-27 20:54:43,445 - root - INFO - Login Unsuccessful
+2024-08-27 20:54:43,445 - root - INFO - Login Unsuccessful
+2024-08-27 20:54:43,445 - root - INFO - test_login_ddt Passed
+2024-08-27 20:54:43,445 - root - INFO - test_login_ddt Passed
+2024-08-27 20:54:43,445 - root - INFO - test_login_ddt Passed
+2024-08-27 20:54:43,445 - root - INFO - *****test_login_ddt Completed*****
+2024-08-27 20:54:43,445 - root - INFO - *****test_login_ddt Completed*****
+2024-08-27 20:54:43,445 - root - INFO - *****test_login_ddt Completed*****
+2024-08-27 20:54:44,179 - root - INFO - Login Unsuccessful
+2024-08-27 20:54:44,179 - root - INFO - Login Unsuccessful
+2024-08-27 20:54:44,179 - root - INFO - Login Unsuccessful
+2024-08-27 20:54:44,179 - root - INFO - test_login_ddt Passed
+2024-08-27 20:54:44,179 - root - INFO - test_login_ddt Passed
+2024-08-27 20:54:44,179 - root - INFO - test_login_ddt Passed
+2024-08-27 20:54:44,179 - root - INFO - *****test_login_ddt Completed*****
+2024-08-27 20:54:44,179 - root - INFO - *****test_login_ddt Completed*****
+2024-08-27 20:54:44,179 - root - INFO - *****test_login_ddt Completed*****
+2024-08-27 22:19:18,394 - root - INFO - driver launched
+2024-08-27 22:19:20,189 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2024-08-27 22:19:20,222 - root - INFO - *****test_homepage_title Started*****
+2024-08-27 22:19:22,394 - root - INFO - test_homepage_title passed
+2024-08-27 22:19:22,394 - root - INFO - *****test_homepage_title Completed*****
+2024-08-27 22:19:23,748 - root - INFO - driver launched
+2024-08-27 22:19:25,783 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2024-08-27 22:19:25,804 - root - INFO - *****test_login_successful Started*****
+2024-08-27 22:19:29,055 - root - INFO - test_login_successful passed
+2024-08-27 22:19:29,055 - root - INFO - *****test_login_successful Completed*****
+2024-08-27 22:32:59,062 - root - INFO - driver launched
+2024-08-27 22:33:01,081 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2024-08-27 22:33:01,110 - root - INFO - *****test_edit_your_acc_info Started*****
+2024-08-27 22:33:02,293 - root - INFO - test login successful
+2024-08-27 22:33:03,478 - root - INFO - test_edit_your_acc_info is Passed
+2024-08-27 22:33:05,590 - root - INFO - *****test_edit_your_acc_info Completed*****
+2024-08-27 22:33:06,940 - root - INFO - driver launched
+2024-08-27 22:33:08,775 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2024-08-27 22:33:08,803 - root - INFO - *****test_change_password_negative*****
+2024-08-27 22:33:09,852 - root - INFO - test login successful
+2024-08-27 22:33:10,550 - root - INFO - test_change_password_negative is Passed
+2024-08-27 22:33:12,646 - root - INFO - *****test_change_password_negative Completed*****
+2024-08-27 22:39:28,975 - root - INFO - driver launched
+2024-08-27 22:39:30,503 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2024-08-27 22:39:30,544 - root - INFO - *****test_edit_your_acc_info Started*****
+2024-08-27 22:39:31,769 - root - INFO - test login successful
+2024-08-27 22:39:33,138 - root - INFO - test_edit_your_acc_info is Passed
+2024-08-27 22:39:35,237 - root - INFO - *****test_edit_your_acc_info Completed*****
+2024-08-27 22:39:36,582 - root - INFO - driver launched
+2024-08-27 22:39:38,383 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2024-08-27 22:39:38,413 - root - INFO - *****test_change_password_negative*****
+2024-08-27 22:39:39,643 - root - INFO - test login successful
+2024-08-27 22:39:40,344 - root - INFO - test_change_password_negative is Passed
+2024-08-27 22:39:42,466 - root - INFO - *****test_change_password_negative Completed*****
+2024-08-27 22:44:13,258 - root - INFO - Edge Browser Launched
+2024-08-27 22:44:13,258 - root - INFO - Edge Browser Launched
+2024-08-27 22:44:15,265 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2024-08-27 22:44:15,265 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2024-08-27 22:44:15,309 - root - INFO - *****test_edit_your_acc_info Started*****
+2024-08-27 22:44:15,309 - root - INFO - *****test_edit_your_acc_info Started*****
+2024-08-27 22:44:16,422 - root - INFO - test login successful
+2024-08-27 22:44:16,422 - root - INFO - test login successful
+2024-08-27 22:44:17,607 - root - INFO - test_edit_your_acc_info is Passed
+2024-08-27 22:44:17,607 - root - INFO - test_edit_your_acc_info is Passed
+2024-08-27 22:44:19,715 - root - INFO - *****test_edit_your_acc_info Completed*****
+2024-08-27 22:44:19,715 - root - INFO - *****test_edit_your_acc_info Completed*****
+2024-08-27 22:44:21,089 - root - INFO - Edge Browser Launched
+2024-08-27 22:44:21,089 - root - INFO - Edge Browser Launched
+2024-08-27 22:44:21,089 - root - INFO - Edge Browser Launched
+2024-08-27 22:44:21,089 - root - INFO - driver launched
+2024-08-27 22:44:21,089 - root - INFO - driver launched
+2024-08-27 22:44:21,089 - root - INFO - driver launched
+2024-08-27 22:44:22,906 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2024-08-27 22:44:22,906 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2024-08-27 22:44:22,906 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2024-08-27 22:44:22,941 - root - INFO - *****test_change_password_negative*****
+2024-08-27 22:44:22,941 - root - INFO - *****test_change_password_negative*****
+2024-08-27 22:44:22,941 - root - INFO - *****test_change_password_negative*****
+2024-08-27 22:44:24,049 - root - INFO - test login successful
+2024-08-27 22:44:24,049 - root - INFO - test login successful
+2024-08-27 22:44:24,049 - root - INFO - test login successful
+2024-08-27 22:44:24,777 - root - INFO - test_change_password_negative is Passed
+2024-08-27 22:44:24,777 - root - INFO - test_change_password_negative is Passed
+2024-08-27 22:44:24,777 - root - INFO - test_change_password_negative is Passed
+2024-08-27 22:44:26,902 - root - INFO - *****test_change_password_negative Completed*****
+2024-08-27 22:44:26,902 - root - INFO - *****test_change_password_negative Completed*****
+2024-08-27 22:44:26,902 - root - INFO - *****test_change_password_negative Completed*****
