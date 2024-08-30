@@ -1,5 +1,5 @@
-import pytest
-from selenium import webdriver
+import allure
+from allure_commons.types import AttachmentType
 from page_objects.LoginPage import LoginPage
 from test_cases.configTest import *
 from utilities.readProperties import Readconfig
@@ -12,10 +12,6 @@ class TestLogin:
     @pytest.mark.sanity
     def test_homepage_title(self, setup):
         self.driver = setup
-        self.driver.get(Readconfig.get_app_url())
-        self.log.info("Navigated to URL:" + Readconfig.get_app_url())
-        self.driver.implicitly_wait(4)
-        self.driver.maximize_window()
         self.log.info("*****test_homepage_title Started*****")
         actual_title = self.driver.title
         if actual_title == "Your Store":
@@ -33,10 +29,6 @@ class TestLogin:
     @pytest.mark.smoke
     def test_login_successful(self, setup):
         self.driver = setup
-        self.driver.get(Readconfig.get_app_url())
-        self.log.info("Navigated to URL:" + Readconfig.get_app_url())
-        self.driver.implicitly_wait(5)
-        self.driver.maximize_window()
         self.log.info("*****test_login_successful Started*****")
         self.login_page = LoginPage(self.driver)
         self.login_page.click_login_header()
@@ -49,6 +41,7 @@ class TestLogin:
             self.log.info("test_login_successful passed")
         else:
             self.driver.save_screenshot(".\\Screenshots\\" + "test_homepage_title.png")
+            allure.attach(self.driver.get_screenshot_as_png(), name="title", attachment_type=AttachmentType.PNG)
             self.driver.quit()
             self.log.info("test_login_successful failed")
             assert False

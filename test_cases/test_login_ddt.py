@@ -12,10 +12,6 @@ class TestLoginDDT:
     @pytest.mark.regression
     def test_login_ddt(self, setup):
         self.driver = setup
-        self.driver.get(Readconfig.get_app_url())
-        self.log.info("Navigated to URL:" + Readconfig.get_app_url())
-        self.driver.implicitly_wait(4)
-        self.driver.maximize_window()
         self.log.info("*****test_login_ddt Started*****")
 
         self.login_page = LoginPage(self.driver)
