@@ -1,48 +1,51 @@
 import allure
 from allure_commons.types import AttachmentType
-from page_objects.LoginPage import LoginPage
+from page_objects_controls.LoginPageControls import LoginPageControls
 from test_cases.configTest import *
 from utilities.readProperties import Readconfig
 from utilities.customLogger import LogGenerator
+from utilities.seleniumUtilities import SeleniumUtilities
 
 
 class TestLogin:
     log = LogGenerator.log_gen()
 
     @pytest.mark.sanity
-    def test_homepage_title(self, setup):
+    def test_application_title(self, setup):
         self.driver = setup
-        self.log.info("*****test_homepage_title Started*****")
+        self.log.info("*****test_application_title Started*****")
         actual_title = self.driver.title
         if actual_title == "Your Store":
             assert True
             self.driver.quit()
-            self.log.info("test_homepage_title passed")
+            self.log.info("test_application_title passed")
         else:
             self.driver.save_screenshot(".\\Screenshots\\" + "test_homepage_title.png")
             self.driver.quit()
-            self.log.info("test_homepage_title failed")
+            self.log.info("test_application_title failed")
             assert False
         # assert actual_title == "Your Store", "Title is not matched"
-        self.log.info("*****test_homepage_title Completed*****")
+        self.log.info("*****test_application_title Completed*****")
 
-    @pytest.mark.smoke
-    def test_login_successful(self, setup):
+    @pytest.mark.smoke1
+    def test_login_scenarios(self, setup):
         self.driver = setup
-        self.log.info("*****test_login_successful Started*****")
-        self.login_page = LoginPage(self.driver)
-        self.login_page.click_login_header()
-        self.login_page.enter_login_credentials(Readconfig.get_username(), Readconfig.get_password())
-        self.login_page.click_submit_login()
+        self.log.info("*****test_login_scenarios started*****")
+        self.login_page = LoginPageControls(self.driver)
+        self.login_page.get_link_my_account().click()
+        self.login_page.get_link_login_my_account().click()
+        SeleniumUtilities.enter_text(self, self.login_page.get_textbox_email_login(), Readconfig.get_username())
+        SeleniumUtilities.enter_text(self, self.login_page.get_textbox_password_login(), Readconfig.get_password())
+        self.login_page.get_button_submit_login().click()
         actual_title = self.driver.title
         if actual_title == "My Account":
             assert True
             self.driver.quit()
-            self.log.info("test_login_successful passed")
+            self.log.info("test_login_scenarios passed")
         else:
-            self.driver.save_screenshot(".\\Screenshots\\" + "test_homepage_title.png")
+            self.driver.save_screenshot(".\\Screenshots\\" + "test_login_scenarios.png")
             allure.attach(self.driver.get_screenshot_as_png(), name="title", attachment_type=AttachmentType.PNG)
             self.driver.quit()
-            self.log.info("test_login_successful failed")
+            self.log.info("test_login_scenarios failed")
             assert False
-        self.log.info("*****test_login_successful Completed*****")
+        self.log.info("*****test_login_scenarios Completed*****")
