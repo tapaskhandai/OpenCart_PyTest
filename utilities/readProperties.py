@@ -25,3 +25,8 @@ class Readconfig:
     def get_password():
         password = config.get('common info', 'password')
         return password
+
+    @staticmethod
+    def get_excel_file_path():
+        path = config.get('common info', 'excel_file_path')
+        return path
