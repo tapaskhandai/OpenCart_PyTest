@@ -1,0 +1,4 @@
+[32mINFO    [0m root:configTest.py:13 Chrome Browser Launched
+[32mINFO    [0m root:configTest.py:22 Navigated to URL: https://tutorialsninja.com/demo/
+[32mINFO    [0m root:test_login.py:18 ***** test_application_title Started *****
+[32mINFO    [0m root:configTest.py:32 Browser closed

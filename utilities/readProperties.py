@@ -7,9 +7,19 @@ config.read("C:\\Users\\tapas\\PycharmProjects\\OpenCart_PyTest\\configurations\
 class Readconfig:
 
     @staticmethod
-    def get_browser_driver():
+    def get_browser():
         browser_name = config.get('browser info', 'browser_name')
         return browser_name
+
+    @staticmethod
+    def get_headless():
+        headless_option = config.get('browser info', 'headless')
+        return headless_option
+
+    @staticmethod
+    def get_incognito():
+        incognito_option = config.get('browser info', 'incognito')
+        return incognito_option
 
     @staticmethod
     def get_app_url():

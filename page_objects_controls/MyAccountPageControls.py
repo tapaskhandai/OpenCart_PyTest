@@ -49,9 +49,6 @@ class MyAccountPageControls:
     def get_error_msg_change_password(self):
         return self.driver.find_element(By.XPATH, self.error_msg_change_password)
 
-    # def capture_success_msg_account_updated(self):
-    #     return self.driver.find_element(By.XPATH, self.success_msg_account_updated).text
-
     def get_link_components(self):
         return self.driver.find_element(By.XPATH, self.link_components)
 

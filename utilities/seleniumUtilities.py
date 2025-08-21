@@ -1,5 +1,4 @@
 from selenium.webdriver import ActionChains
-from selenium import webdriver
 
 
 class SeleniumUtilities:

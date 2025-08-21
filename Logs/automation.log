@@ -1,103 +1,424 @@
-2024-08-27 20:54:37,077 - root - INFO - driver launched
-2024-08-27 20:54:37,077 - root - INFO - driver launched
-2024-08-27 20:54:37,077 - root - INFO - driver launched
-2024-08-27 20:54:39,308 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
-2024-08-27 20:54:39,308 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
-2024-08-27 20:54:39,308 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
-2024-08-27 20:54:39,382 - root - INFO - *****test_login_ddt Started*****
-2024-08-27 20:54:39,382 - root - INFO - *****test_login_ddt Started*****
-2024-08-27 20:54:39,382 - root - INFO - *****test_login_ddt Started*****
-2024-08-27 20:54:40,867 - root - INFO - Login Successful
-2024-08-27 20:54:40,867 - root - INFO - Login Successful
-2024-08-27 20:54:40,867 - root - INFO - Login Successful
-2024-08-27 20:54:40,867 - root - INFO - test_login_ddt Passed
-2024-08-27 20:54:40,867 - root - INFO - test_login_ddt Passed
-2024-08-27 20:54:40,867 - root - INFO - test_login_ddt Passed
-2024-08-27 20:54:42,624 - root - INFO - *****test_login_ddt Completed*****
-2024-08-27 20:54:42,624 - root - INFO - *****test_login_ddt Completed*****
-2024-08-27 20:54:42,624 - root - INFO - *****test_login_ddt Completed*****
-2024-08-27 20:54:43,445 - root - INFO - Login Unsuccessful
-2024-08-27 20:54:43,445 - root - INFO - Login Unsuccessful
-2024-08-27 20:54:43,445 - root - INFO - Login Unsuccessful
-2024-08-27 20:54:43,445 - root - INFO - test_login_ddt Passed
-2024-08-27 20:54:43,445 - root - INFO - test_login_ddt Passed
-2024-08-27 20:54:43,445 - root - INFO - test_login_ddt Passed
-2024-08-27 20:54:43,445 - root - INFO - *****test_login_ddt Completed*****
-2024-08-27 20:54:43,445 - root - INFO - *****test_login_ddt Completed*****
-2024-08-27 20:54:43,445 - root - INFO - *****test_login_ddt Completed*****
-2024-08-27 20:54:44,179 - root - INFO - Login Unsuccessful
-2024-08-27 20:54:44,179 - root - INFO - Login Unsuccessful
-2024-08-27 20:54:44,179 - root - INFO - Login Unsuccessful
-2024-08-27 20:54:44,179 - root - INFO - test_login_ddt Passed
-2024-08-27 20:54:44,179 - root - INFO - test_login_ddt Passed
-2024-08-27 20:54:44,179 - root - INFO - test_login_ddt Passed
-2024-08-27 20:54:44,179 - root - INFO - *****test_login_ddt Completed*****
-2024-08-27 20:54:44,179 - root - INFO - *****test_login_ddt Completed*****
-2024-08-27 20:54:44,179 - root - INFO - *****test_login_ddt Completed*****
-2024-08-27 22:19:18,394 - root - INFO - driver launched
-2024-08-27 22:19:20,189 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
-2024-08-27 22:19:20,222 - root - INFO - *****test_homepage_title Started*****
-2024-08-27 22:19:22,394 - root - INFO - test_homepage_title passed
-2024-08-27 22:19:22,394 - root - INFO - *****test_homepage_title Completed*****
-2024-08-27 22:19:23,748 - root - INFO - driver launched
-2024-08-27 22:19:25,783 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
-2024-08-27 22:19:25,804 - root - INFO - *****test_login_successful Started*****
-2024-08-27 22:19:29,055 - root - INFO - test_login_successful passed
-2024-08-27 22:19:29,055 - root - INFO - *****test_login_successful Completed*****
-2024-08-27 22:32:59,062 - root - INFO - driver launched
-2024-08-27 22:33:01,081 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
-2024-08-27 22:33:01,110 - root - INFO - *****test_edit_your_acc_info Started*****
-2024-08-27 22:33:02,293 - root - INFO - test login successful
-2024-08-27 22:33:03,478 - root - INFO - test_edit_your_acc_info is Passed
-2024-08-27 22:33:05,590 - root - INFO - *****test_edit_your_acc_info Completed*****
-2024-08-27 22:33:06,940 - root - INFO - driver launched
-2024-08-27 22:33:08,775 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
-2024-08-27 22:33:08,803 - root - INFO - *****test_change_password_negative*****
-2024-08-27 22:33:09,852 - root - INFO - test login successful
-2024-08-27 22:33:10,550 - root - INFO - test_change_password_negative is Passed
-2024-08-27 22:33:12,646 - root - INFO - *****test_change_password_negative Completed*****
-2024-08-27 22:39:28,975 - root - INFO - driver launched
-2024-08-27 22:39:30,503 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
-2024-08-27 22:39:30,544 - root - INFO - *****test_edit_your_acc_info Started*****
-2024-08-27 22:39:31,769 - root - INFO - test login successful
-2024-08-27 22:39:33,138 - root - INFO - test_edit_your_acc_info is Passed
-2024-08-27 22:39:35,237 - root - INFO - *****test_edit_your_acc_info Completed*****
-2024-08-27 22:39:36,582 - root - INFO - driver launched
-2024-08-27 22:39:38,383 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
-2024-08-27 22:39:38,413 - root - INFO - *****test_change_password_negative*****
-2024-08-27 22:39:39,643 - root - INFO - test login successful
-2024-08-27 22:39:40,344 - root - INFO - test_change_password_negative is Passed
-2024-08-27 22:39:42,466 - root - INFO - *****test_change_password_negative Completed*****
-2024-08-27 22:44:13,258 - root - INFO - Edge Browser Launched
-2024-08-27 22:44:13,258 - root - INFO - Edge Browser Launched
-2024-08-27 22:44:15,265 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
-2024-08-27 22:44:15,265 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
-2024-08-27 22:44:15,309 - root - INFO - *****test_edit_your_acc_info Started*****
-2024-08-27 22:44:15,309 - root - INFO - *****test_edit_your_acc_info Started*****
-2024-08-27 22:44:16,422 - root - INFO - test login successful
-2024-08-27 22:44:16,422 - root - INFO - test login successful
-2024-08-27 22:44:17,607 - root - INFO - test_edit_your_acc_info is Passed
-2024-08-27 22:44:17,607 - root - INFO - test_edit_your_acc_info is Passed
-2024-08-27 22:44:19,715 - root - INFO - *****test_edit_your_acc_info Completed*****
-2024-08-27 22:44:19,715 - root - INFO - *****test_edit_your_acc_info Completed*****
-2024-08-27 22:44:21,089 - root - INFO - Edge Browser Launched
-2024-08-27 22:44:21,089 - root - INFO - Edge Browser Launched
-2024-08-27 22:44:21,089 - root - INFO - Edge Browser Launched
-2024-08-27 22:44:21,089 - root - INFO - driver launched
-2024-08-27 22:44:21,089 - root - INFO - driver launched
-2024-08-27 22:44:21,089 - root - INFO - driver launched
-2024-08-27 22:44:22,906 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
-2024-08-27 22:44:22,906 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
-2024-08-27 22:44:22,906 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
-2024-08-27 22:44:22,941 - root - INFO - *****test_change_password_negative*****
-2024-08-27 22:44:22,941 - root - INFO - *****test_change_password_negative*****
-2024-08-27 22:44:22,941 - root - INFO - *****test_change_password_negative*****
-2024-08-27 22:44:24,049 - root - INFO - test login successful
-2024-08-27 22:44:24,049 - root - INFO - test login successful
-2024-08-27 22:44:24,049 - root - INFO - test login successful
-2024-08-27 22:44:24,777 - root - INFO - test_change_password_negative is Passed
-2024-08-27 22:44:24,777 - root - INFO - test_change_password_negative is Passed
-2024-08-27 22:44:24,777 - root - INFO - test_change_password_negative is Passed
-2024-08-27 22:44:26,902 - root - INFO - *****test_change_password_negative Completed*****
-2024-08-27 22:44:26,902 - root - INFO - *****test_change_password_negative Completed*****
-2024-08-27 22:44:26,902 - root - INFO - *****test_change_password_negative Completed*****
+2025-08-21 17:48:59,971 - root - INFO - Chrome Browser Launched
+2025-08-21 17:48:59,971 - root - INFO - Chrome Browser Launched
+2025-08-21 17:49:01,350 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2025-08-21 17:49:01,350 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2025-08-21 17:49:01,386 - root - INFO - *****test_application_title Started*****
+2025-08-21 17:49:01,386 - root - INFO - *****test_application_title Started*****
+2025-08-21 17:49:03,566 - root - INFO - test_application_title passed
+2025-08-21 17:49:03,566 - root - INFO - test_application_title passed
+2025-08-21 17:49:03,567 - root - INFO - *****test_application_title Completed*****
+2025-08-21 17:49:03,567 - root - INFO - *****test_application_title Completed*****
+2025-08-21 17:49:04,818 - root - INFO - Chrome Browser Launched
+2025-08-21 17:49:04,818 - root - INFO - Chrome Browser Launched
+2025-08-21 17:49:05,248 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2025-08-21 17:49:05,248 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2025-08-21 17:49:05,938 - root - INFO - *****test_login_scenarios started*****
+2025-08-21 17:49:05,938 - root - INFO - *****test_login_scenarios started*****
+2025-08-21 17:49:09,601 - root - INFO - test_login_scenarios passed
+2025-08-21 17:49:09,601 - root - INFO - test_login_scenarios passed
+2025-08-21 17:49:09,601 - root - INFO - *****test_login_scenarios Completed*****
+2025-08-21 17:49:09,601 - root - INFO - *****test_login_scenarios Completed*****
+2025-08-21 17:52:11,707 - root - INFO - Chrome Browser Launched
+2025-08-21 17:52:11,707 - root - INFO - Chrome Browser Launched
+2025-08-21 17:52:11,711 - root - INFO - Chrome Browser Launched
+2025-08-21 17:52:11,711 - root - INFO - Chrome Browser Launched
+2025-08-21 17:52:13,241 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2025-08-21 17:52:13,241 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2025-08-21 17:52:13,289 - root - INFO - *****test_login_scenarios started*****
+2025-08-21 17:52:13,289 - root - INFO - *****test_login_scenarios started*****
+2025-08-21 17:52:13,433 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2025-08-21 17:52:13,433 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2025-08-21 17:52:13,463 - root - INFO - *****test_application_title Started*****
+2025-08-21 17:52:13,463 - root - INFO - *****test_application_title Started*****
+2025-08-21 17:52:15,634 - root - INFO - test_application_title passed
+2025-08-21 17:52:15,634 - root - INFO - test_application_title passed
+2025-08-21 17:52:15,635 - root - INFO - *****test_application_title Completed*****
+2025-08-21 17:52:15,635 - root - INFO - *****test_application_title Completed*****
+2025-08-21 17:52:17,228 - root - INFO - test_login_scenarios failed
+2025-08-21 17:52:17,228 - root - INFO - test_login_scenarios failed
+2025-08-21 17:54:54,911 - root - INFO - Chrome Browser Launched
+2025-08-21 17:54:54,911 - root - INFO - Chrome Browser Launched
+2025-08-21 17:54:55,026 - root - INFO - Chrome Browser Launched
+2025-08-21 17:54:55,026 - root - INFO - Chrome Browser Launched
+2025-08-21 17:54:55,996 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2025-08-21 17:54:55,996 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2025-08-21 17:54:56,047 - root - INFO - *****test_login_scenarios started*****
+2025-08-21 17:54:56,047 - root - INFO - *****test_login_scenarios started*****
+2025-08-21 17:54:56,330 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2025-08-21 17:54:56,330 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2025-08-21 17:54:56,365 - root - INFO - *****test_application_title Started*****
+2025-08-21 17:54:56,365 - root - INFO - *****test_application_title Started*****
+2025-08-21 17:54:58,539 - root - INFO - test_application_title passed
+2025-08-21 17:54:58,539 - root - INFO - test_application_title passed
+2025-08-21 17:54:58,540 - root - INFO - *****test_application_title Completed*****
+2025-08-21 17:54:58,540 - root - INFO - *****test_application_title Completed*****
+2025-08-21 17:55:00,009 - root - INFO - test_login_scenarios passed
+2025-08-21 17:55:00,009 - root - INFO - test_login_scenarios passed
+2025-08-21 17:55:00,009 - root - INFO - *****test_login_scenarios Completed*****
+2025-08-21 17:55:00,009 - root - INFO - *****test_login_scenarios Completed*****
+2025-08-21 18:09:59,424 - root - INFO - Chrome Browser Launched
+2025-08-21 18:09:59,424 - root - INFO - Chrome Browser Launched
+2025-08-21 18:10:00,039 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2025-08-21 18:10:00,039 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2025-08-21 18:10:00,655 - root - INFO - *****test_application_title Started*****
+2025-08-21 18:10:00,655 - root - INFO - *****test_application_title Started*****
+2025-08-21 18:10:02,865 - root - INFO - test_application_title passed
+2025-08-21 18:10:02,865 - root - INFO - test_application_title passed
+2025-08-21 18:10:02,865 - root - INFO - *****test_application_title Completed*****
+2025-08-21 18:10:02,865 - root - INFO - *****test_application_title Completed*****
+2025-08-21 18:10:06,954 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020BF194EAD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d5ef53de4b05cfcb3bc39dcd8aa3bbc6
+2025-08-21 18:10:06,954 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020BF194EAD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d5ef53de4b05cfcb3bc39dcd8aa3bbc6
+2025-08-21 18:10:11,051 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020BF194EFD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d5ef53de4b05cfcb3bc39dcd8aa3bbc6
+2025-08-21 18:10:11,051 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020BF194EFD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d5ef53de4b05cfcb3bc39dcd8aa3bbc6
+2025-08-21 18:10:15,120 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020BF18F2EA0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d5ef53de4b05cfcb3bc39dcd8aa3bbc6
+2025-08-21 18:10:15,120 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020BF18F2EA0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d5ef53de4b05cfcb3bc39dcd8aa3bbc6
+2025-08-21 18:10:20,559 - root - INFO - Chrome Browser Launched
+2025-08-21 18:10:20,559 - root - INFO - Chrome Browser Launched
+2025-08-21 18:10:21,723 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2025-08-21 18:10:21,723 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2025-08-21 18:10:21,763 - root - INFO - *****test_login_scenarios started*****
+2025-08-21 18:10:21,763 - root - INFO - *****test_login_scenarios started*****
+2025-08-21 18:10:26,893 - root - INFO - test_login_scenarios failed
+2025-08-21 18:10:26,893 - root - INFO - test_login_scenarios failed
+2025-08-21 18:10:31,051 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020BF190B460>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9af7178f4bd4a7500496e9bbd32dd4b1/screenshot
+2025-08-21 18:10:31,051 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020BF190B460>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9af7178f4bd4a7500496e9bbd32dd4b1/screenshot
+2025-08-21 18:10:35,127 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020BF190B790>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9af7178f4bd4a7500496e9bbd32dd4b1/screenshot
+2025-08-21 18:10:35,127 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020BF190B790>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9af7178f4bd4a7500496e9bbd32dd4b1/screenshot
+2025-08-21 18:10:39,215 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020BF190B350>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9af7178f4bd4a7500496e9bbd32dd4b1/screenshot
+2025-08-21 18:10:39,215 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020BF190B350>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9af7178f4bd4a7500496e9bbd32dd4b1/screenshot
+2025-08-21 18:10:47,428 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020BF190BCE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9af7178f4bd4a7500496e9bbd32dd4b1
+2025-08-21 18:10:47,428 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020BF190BCE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9af7178f4bd4a7500496e9bbd32dd4b1
+2025-08-21 18:10:51,537 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020BF1D4C490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9af7178f4bd4a7500496e9bbd32dd4b1
+2025-08-21 18:10:51,537 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020BF1D4C490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9af7178f4bd4a7500496e9bbd32dd4b1
+2025-08-21 18:10:55,640 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020BF1D4C7C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9af7178f4bd4a7500496e9bbd32dd4b1
+2025-08-21 18:10:55,640 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020BF1D4C7C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9af7178f4bd4a7500496e9bbd32dd4b1
+2025-08-21 18:13:12,032 - root - INFO - Chrome Browser Launched
+2025-08-21 18:13:12,032 - root - INFO - Chrome Browser Launched
+2025-08-21 18:13:12,421 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2025-08-21 18:13:12,421 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2025-08-21 18:13:12,912 - root - INFO - *****test_application_title Started*****
+2025-08-21 18:13:12,912 - root - INFO - *****test_application_title Started*****
+2025-08-21 18:13:15,137 - root - INFO - test_application_title passed
+2025-08-21 18:13:15,137 - root - INFO - test_application_title passed
+2025-08-21 18:13:15,138 - root - INFO - *****test_application_title Completed*****
+2025-08-21 18:13:15,138 - root - INFO - *****test_application_title Completed*****
+2025-08-21 18:13:19,230 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CC2E8A2E90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9cce8a0a7808ce93540cbd095f7a88c2
+2025-08-21 18:13:19,230 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CC2E8A2E90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9cce8a0a7808ce93540cbd095f7a88c2
+2025-08-21 18:13:23,327 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CC2E8A3110>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9cce8a0a7808ce93540cbd095f7a88c2
+2025-08-21 18:13:23,327 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CC2E8A3110>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9cce8a0a7808ce93540cbd095f7a88c2
+2025-08-21 18:13:27,422 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CC2E846D70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9cce8a0a7808ce93540cbd095f7a88c2
+2025-08-21 18:13:27,422 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CC2E846D70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9cce8a0a7808ce93540cbd095f7a88c2
+2025-08-21 18:13:32,870 - root - INFO - Chrome Browser Launched
+2025-08-21 18:13:32,870 - root - INFO - Chrome Browser Launched
+2025-08-21 18:13:33,250 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2025-08-21 18:13:33,250 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2025-08-21 18:13:33,743 - root - INFO - *****test_login_scenarios started*****
+2025-08-21 18:13:33,743 - root - INFO - *****test_login_scenarios started*****
+2025-08-21 18:13:37,415 - root - INFO - test_login_scenarios passed
+2025-08-21 18:13:37,415 - root - INFO - test_login_scenarios passed
+2025-08-21 18:13:37,415 - root - INFO - *****test_login_scenarios Completed*****
+2025-08-21 18:13:37,415 - root - INFO - *****test_login_scenarios Completed*****
+2025-08-21 18:13:41,501 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CC2ECDC380>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/15f82455051ce8fef94bd3b90d3a0745
+2025-08-21 18:13:41,501 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CC2ECDC380>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/15f82455051ce8fef94bd3b90d3a0745
+2025-08-21 18:13:45,594 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CC2ECDC5A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/15f82455051ce8fef94bd3b90d3a0745
+2025-08-21 18:13:45,594 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CC2ECDC5A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/15f82455051ce8fef94bd3b90d3a0745
+2025-08-21 18:13:49,687 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CC2ECDC9E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/15f82455051ce8fef94bd3b90d3a0745
+2025-08-21 18:13:49,687 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CC2ECDC9E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/15f82455051ce8fef94bd3b90d3a0745
+2025-08-21 18:15:28,673 - root - INFO - Chrome Browser Launched
+2025-08-21 18:15:28,673 - root - INFO - Chrome Browser Launched
+2025-08-21 18:15:29,834 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2025-08-21 18:15:29,834 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2025-08-21 18:15:29,867 - root - INFO - *****test_application_title Started*****
+2025-08-21 18:15:29,867 - root - INFO - *****test_application_title Started*****
+2025-08-21 18:15:29,873 - root - INFO - test_application_title failed
+2025-08-21 18:15:29,873 - root - INFO - test_application_title failed
+2025-08-21 18:15:33,680 - root - INFO - Chrome Browser Launched
+2025-08-21 18:15:33,680 - root - INFO - Chrome Browser Launched
+2025-08-21 18:15:34,034 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2025-08-21 18:15:34,034 - root - INFO - Navigated to URL:https://tutorialsninja.com/demo/
+2025-08-21 18:15:34,731 - root - INFO - *****test_login_scenarios started*****
+2025-08-21 18:15:34,731 - root - INFO - *****test_login_scenarios started*****
+2025-08-21 18:15:38,657 - root - INFO - test_login_scenarios passed
+2025-08-21 18:15:38,657 - root - INFO - test_login_scenarios passed
+2025-08-21 18:15:38,658 - root - INFO - *****test_login_scenarios Completed*****
+2025-08-21 18:15:38,658 - root - INFO - *****test_login_scenarios Completed*****
+2025-08-21 18:15:42,757 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002316B62C690>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/483da6a5c53f3bc2d380e995467f216b
+2025-08-21 18:15:42,757 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002316B62C690>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/483da6a5c53f3bc2d380e995467f216b
+2025-08-21 18:15:46,852 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002316B1B2EA0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/483da6a5c53f3bc2d380e995467f216b
+2025-08-21 18:15:46,852 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002316B1B2EA0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/483da6a5c53f3bc2d380e995467f216b
+2025-08-21 18:15:50,948 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002316B1B3100>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/483da6a5c53f3bc2d380e995467f216b
+2025-08-21 18:15:50,948 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002316B1B3100>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/483da6a5c53f3bc2d380e995467f216b
+2025-08-21 22:14:29,807 - root - INFO - Chrome Browser Launched
+2025-08-21 22:14:29,807 - root - INFO - Chrome Browser Launched
+2025-08-21 22:14:31,567 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-21 22:14:31,567 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-21 22:14:34,185 - root - INFO - ***** test_application_title Started *****
+2025-08-21 22:14:34,185 - root - INFO - ***** test_application_title Started *****
+2025-08-21 22:14:36,438 - root - INFO - Browser closed
+2025-08-21 22:14:36,438 - root - INFO - Browser closed
+2025-08-21 22:14:37,669 - root - INFO - Chrome Browser Launched
+2025-08-21 22:14:37,669 - root - INFO - Chrome Browser Launched
+2025-08-21 22:14:38,049 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-21 22:14:38,049 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-21 22:14:38,817 - root - INFO - *****test_login_scenarios started*****
+2025-08-21 22:14:38,817 - root - INFO - *****test_login_scenarios started*****
+2025-08-21 22:14:40,164 - root - INFO - test_login_scenarios passed
+2025-08-21 22:14:40,164 - root - INFO - test_login_scenarios passed
+2025-08-21 22:14:40,164 - root - INFO - *****test_login_scenarios Completed*****
+2025-08-21 22:14:40,164 - root - INFO - *****test_login_scenarios Completed*****
+2025-08-21 22:14:42,368 - root - INFO - Browser closed
+2025-08-21 22:14:42,368 - root - INFO - Browser closed
+2025-08-21 22:22:15,489 - root - INFO - Chrome Browser Launched
+2025-08-21 22:22:15,489 - root - INFO - Chrome Browser Launched
+2025-08-21 22:22:16,962 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-21 22:22:16,962 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-21 22:22:17,016 - root - INFO - ***** test_application_title Started *****
+2025-08-21 22:22:17,016 - root - INFO - ***** test_application_title Started *****
+2025-08-21 22:22:19,506 - root - INFO - Browser closed
+2025-08-21 22:22:19,506 - root - INFO - Browser closed
+2025-08-21 22:22:20,682 - root - INFO - Chrome Browser Launched
+2025-08-21 22:22:20,682 - root - INFO - Chrome Browser Launched
+2025-08-21 22:22:23,816 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-21 22:22:23,816 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-21 22:22:23,869 - root - INFO - *****test_login_scenarios started*****
+2025-08-21 22:22:23,869 - root - INFO - *****test_login_scenarios started*****
+2025-08-21 22:22:27,937 - root - INFO - Browser closed
+2025-08-21 22:22:27,937 - root - INFO - Browser closed
+2025-08-21 22:23:58,769 - root - INFO - Chrome Browser Launched
+2025-08-21 22:23:58,769 - root - INFO - Chrome Browser Launched
+2025-08-21 22:24:00,104 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-21 22:24:00,104 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-21 22:24:00,141 - root - INFO - ***** test_application_title Started *****
+2025-08-21 22:24:00,141 - root - INFO - ***** test_application_title Started *****
+2025-08-21 22:24:02,589 - root - INFO - Browser closed
+2025-08-21 22:24:02,589 - root - INFO - Browser closed
+2025-08-21 22:24:03,776 - root - INFO - Chrome Browser Launched
+2025-08-21 22:24:03,776 - root - INFO - Chrome Browser Launched
+2025-08-21 22:24:07,607 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-21 22:24:07,607 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-21 22:24:07,645 - root - INFO - *****test_login_scenarios started*****
+2025-08-21 22:24:07,645 - root - INFO - *****test_login_scenarios started*****
+2025-08-21 22:24:12,244 - root - INFO - Browser closed
+2025-08-21 22:24:12,244 - root - INFO - Browser closed
+2025-08-21 22:29:15,895 - root - INFO - Chrome Browser Launched
+2025-08-21 22:29:15,895 - root - INFO - Chrome Browser Launched
+2025-08-21 22:29:25,088 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-21 22:29:25,088 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-21 22:29:25,158 - root - INFO - ***** test_application_title Started *****
+2025-08-21 22:29:25,158 - root - INFO - ***** test_application_title Started *****
+2025-08-21 22:29:25,170 - root - INFO - test_application_title passed
+2025-08-21 22:29:25,170 - root - INFO - test_application_title passed
+2025-08-21 22:29:25,170 - root - INFO - ***** test_application_title Completed *****
+2025-08-21 22:29:25,170 - root - INFO - ***** test_application_title Completed *****
+2025-08-21 22:29:27,335 - root - INFO - Browser closed
+2025-08-21 22:29:27,335 - root - INFO - Browser closed
+2025-08-21 22:29:28,494 - root - INFO - Chrome Browser Launched
+2025-08-21 22:29:28,494 - root - INFO - Chrome Browser Launched
+2025-08-21 22:29:35,372 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-21 22:29:35,372 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-21 22:29:35,405 - root - INFO - *****test_login_scenarios started*****
+2025-08-21 22:29:35,405 - root - INFO - *****test_login_scenarios started*****
+2025-08-21 22:29:39,167 - root - INFO - test_login_scenarios passed
+2025-08-21 22:29:39,167 - root - INFO - test_login_scenarios passed
+2025-08-21 22:29:39,167 - root - INFO - *****test_login_scenarios Completed*****
+2025-08-21 22:29:39,167 - root - INFO - *****test_login_scenarios Completed*****
+2025-08-21 22:29:41,449 - root - INFO - Browser closed
+2025-08-21 22:29:41,449 - root - INFO - Browser closed
+2025-08-22 00:01:44,099 - selenium.webdriver.common.selenium_manager - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_139_WINDOWS)); using driver found in the cache
+2025-08-22 00:01:44,099 - selenium.webdriver.common.selenium_manager - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_139_WINDOWS)); using driver found in the cache
+2025-08-22 00:01:45,292 - root - INFO - Edge Browser Launched
+2025-08-22 00:01:45,292 - root - INFO - Edge Browser Launched
+2025-08-22 00:01:46,573 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:01:46,573 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:01:46,574 - root - INFO - ***** test_application_title Started *****
+2025-08-22 00:01:46,574 - root - INFO - ***** test_application_title Started *****
+2025-08-22 00:01:46,586 - root - INFO - test_application_title passed
+2025-08-22 00:01:46,586 - root - INFO - test_application_title passed
+2025-08-22 00:01:46,586 - root - INFO - ***** test_application_title Completed *****
+2025-08-22 00:01:46,586 - root - INFO - ***** test_application_title Completed *****
+2025-08-22 00:01:48,769 - root - INFO - Browser closed
+2025-08-22 00:01:48,769 - root - INFO - Browser closed
+2025-08-22 00:01:48,902 - selenium.webdriver.common.selenium_manager - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_139_WINDOWS)); using driver found in the cache
+2025-08-22 00:01:48,902 - selenium.webdriver.common.selenium_manager - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_139_WINDOWS)); using driver found in the cache
+2025-08-22 00:01:50,027 - root - INFO - Edge Browser Launched
+2025-08-22 00:01:50,027 - root - INFO - Edge Browser Launched
+2025-08-22 00:01:51,394 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:01:51,394 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:01:51,395 - root - INFO - *****test_login_scenarios started*****
+2025-08-22 00:01:51,395 - root - INFO - *****test_login_scenarios started*****
+2025-08-22 00:01:55,382 - root - INFO - Browser closed
+2025-08-22 00:01:55,382 - root - INFO - Browser closed
+2025-08-22 00:03:42,186 - root - INFO - Chrome Browser Launched
+2025-08-22 00:03:42,186 - root - INFO - Chrome Browser Launched
+2025-08-22 00:03:42,548 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:03:42,548 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:03:42,551 - root - INFO - ***** test_application_title Started *****
+2025-08-22 00:03:42,551 - root - INFO - ***** test_application_title Started *****
+2025-08-22 00:03:43,172 - root - INFO - test_application_title passed
+2025-08-22 00:03:43,172 - root - INFO - test_application_title passed
+2025-08-22 00:03:43,172 - root - INFO - ***** test_application_title Completed *****
+2025-08-22 00:03:43,172 - root - INFO - ***** test_application_title Completed *****
+2025-08-22 00:03:45,349 - root - INFO - Browser closed
+2025-08-22 00:03:45,349 - root - INFO - Browser closed
+2025-08-22 00:03:46,555 - root - INFO - Chrome Browser Launched
+2025-08-22 00:03:46,555 - root - INFO - Chrome Browser Launched
+2025-08-22 00:03:46,972 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:03:46,972 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:03:46,973 - root - INFO - *****test_login_scenarios started*****
+2025-08-22 00:03:46,973 - root - INFO - *****test_login_scenarios started*****
+2025-08-22 00:03:50,109 - root - INFO - test_login_scenarios passed
+2025-08-22 00:03:50,109 - root - INFO - test_login_scenarios passed
+2025-08-22 00:03:50,109 - root - INFO - *****test_login_scenarios Completed*****
+2025-08-22 00:03:50,109 - root - INFO - *****test_login_scenarios Completed*****
+2025-08-22 00:03:52,367 - root - INFO - Browser closed
+2025-08-22 00:03:52,367 - root - INFO - Browser closed
+2025-08-22 00:04:14,831 - root - INFO - Chrome Browser Launched
+2025-08-22 00:04:14,831 - root - INFO - Chrome Browser Launched
+2025-08-22 00:04:15,811 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:04:15,811 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:04:15,812 - root - INFO - ***** test_application_title Started *****
+2025-08-22 00:04:15,812 - root - INFO - ***** test_application_title Started *****
+2025-08-22 00:04:18,060 - root - INFO - Browser closed
+2025-08-22 00:04:18,060 - root - INFO - Browser closed
+2025-08-22 00:04:19,288 - root - INFO - Chrome Browser Launched
+2025-08-22 00:04:19,288 - root - INFO - Chrome Browser Launched
+2025-08-22 00:04:20,263 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:04:20,263 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:04:20,264 - root - INFO - *****test_login_scenarios started*****
+2025-08-22 00:04:20,264 - root - INFO - *****test_login_scenarios started*****
+2025-08-22 00:04:24,080 - root - INFO - Browser closed
+2025-08-22 00:04:24,080 - root - INFO - Browser closed
+2025-08-22 00:11:11,263 - root - INFO - Chrome Browser Launched
+2025-08-22 00:11:11,263 - root - INFO - Chrome Browser Launched
+2025-08-22 00:11:12,442 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:11:12,442 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:11:13,805 - root - INFO - Chrome Browser Launched
+2025-08-22 00:11:13,805 - root - INFO - Chrome Browser Launched
+2025-08-22 00:11:14,835 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:11:14,835 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:12:05,165 - root - INFO - Chrome Browser Launched
+2025-08-22 00:12:05,165 - root - INFO - Chrome Browser Launched
+2025-08-22 00:12:06,175 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:12:06,175 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:12:06,175 - root - INFO - ***** test_application_title Started *****
+2025-08-22 00:12:06,175 - root - INFO - ***** test_application_title Started *****
+2025-08-22 00:12:08,408 - root - INFO - Browser closed
+2025-08-22 00:12:08,408 - root - INFO - Browser closed
+2025-08-22 00:12:09,631 - root - INFO - Chrome Browser Launched
+2025-08-22 00:12:09,631 - root - INFO - Chrome Browser Launched
+2025-08-22 00:12:10,020 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:12:10,020 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:12:10,021 - root - INFO - *****test_login_scenarios started*****
+2025-08-22 00:12:10,021 - root - INFO - *****test_login_scenarios started*****
+2025-08-22 00:12:14,512 - root - INFO - Browser closed
+2025-08-22 00:12:14,512 - root - INFO - Browser closed
+2025-08-22 00:18:47,336 - root - INFO - Chrome Browser Launched
+2025-08-22 00:18:47,336 - root - INFO - Chrome Browser Launched
+2025-08-22 00:18:48,155 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:18:48,155 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:18:49,517 - root - INFO - Chrome Browser Launched
+2025-08-22 00:18:49,517 - root - INFO - Chrome Browser Launched
+2025-08-22 00:18:50,573 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:18:50,573 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:22:55,794 - root - INFO - Chrome Browser Launched
+2025-08-22 00:22:55,794 - root - INFO - Chrome Browser Launched
+2025-08-22 00:22:56,981 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:22:56,981 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:22:56,982 - root - INFO - ***** test_application_title Started *****
+2025-08-22 00:22:56,982 - root - INFO - ***** test_application_title Started *****
+2025-08-22 00:22:59,236 - root - INFO - Browser closed
+2025-08-22 00:22:59,236 - root - INFO - Browser closed
+2025-08-22 00:23:00,457 - root - INFO - Chrome Browser Launched
+2025-08-22 00:23:00,457 - root - INFO - Chrome Browser Launched
+2025-08-22 00:23:01,381 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:23:01,381 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:23:01,381 - root - INFO - *****test_login_scenarios started*****
+2025-08-22 00:23:01,381 - root - INFO - *****test_login_scenarios started*****
+2025-08-22 00:23:03,793 - root - INFO - test_login_scenarios passed
+2025-08-22 00:23:03,793 - root - INFO - test_login_scenarios passed
+2025-08-22 00:23:03,793 - root - INFO - *****test_login_scenarios Completed*****
+2025-08-22 00:23:03,793 - root - INFO - *****test_login_scenarios Completed*****
+2025-08-22 00:23:06,033 - root - INFO - Browser closed
+2025-08-22 00:23:06,033 - root - INFO - Browser closed
+2025-08-22 00:31:50,236 - root - INFO - Chrome Browser Launched
+2025-08-22 00:31:50,236 - root - INFO - Chrome Browser Launched
+2025-08-22 00:31:51,218 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:31:51,218 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:31:51,219 - root - INFO - ***** test_application_title Started *****
+2025-08-22 00:31:51,219 - root - INFO - ***** test_application_title Started *****
+2025-08-22 00:31:51,309 - root - INFO - *****test_login_scenarios started*****
+2025-08-22 00:31:51,309 - root - INFO - *****test_login_scenarios started*****
+2025-08-22 00:31:55,377 - root - INFO - Browser closed
+2025-08-22 00:31:55,377 - root - INFO - Browser closed
+2025-08-22 00:38:40,583 - root - INFO - Chrome Browser Launched
+2025-08-22 00:38:40,583 - root - INFO - Chrome Browser Launched
+2025-08-22 00:38:41,836 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:38:41,836 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:38:41,838 - root - INFO - ***** test_application_title Started *****
+2025-08-22 00:38:41,838 - root - INFO - ***** test_application_title Started *****
+2025-08-22 00:38:41,933 - root - INFO - *****test_login_scenarios started*****
+2025-08-22 00:38:41,933 - root - INFO - *****test_login_scenarios started*****
+2025-08-22 00:38:44,473 - root - INFO - test_login_scenarios passed
+2025-08-22 00:38:44,473 - root - INFO - test_login_scenarios passed
+2025-08-22 00:38:44,473 - root - INFO - *****test_login_scenarios Completed*****
+2025-08-22 00:38:44,473 - root - INFO - *****test_login_scenarios Completed*****
+2025-08-22 00:38:46,701 - root - INFO - Browser closed
+2025-08-22 00:38:46,701 - root - INFO - Browser closed
+2025-08-22 00:42:06,127 - root - INFO - Chrome Browser Launched
+2025-08-22 00:42:06,127 - root - INFO - Chrome Browser Launched
+2025-08-22 00:42:06,539 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:42:06,539 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:42:06,540 - root - INFO - ***** test_application_title Started *****
+2025-08-22 00:42:06,540 - root - INFO - ***** test_application_title Started *****
+2025-08-22 00:42:07,267 - root - INFO - *****test_login_scenarios started*****
+2025-08-22 00:42:07,267 - root - INFO - *****test_login_scenarios started*****
+2025-08-22 00:42:09,740 - root - INFO - test_login_scenarios passed
+2025-08-22 00:42:09,740 - root - INFO - test_login_scenarios passed
+2025-08-22 00:42:09,740 - root - INFO - *****test_login_scenarios Completed*****
+2025-08-22 00:42:09,740 - root - INFO - *****test_login_scenarios Completed*****
+2025-08-22 00:42:12,021 - root - INFO - Browser closed
+2025-08-22 00:42:12,021 - root - INFO - Browser closed
+2025-08-22 00:46:55,375 - root - INFO - Chrome Browser Launched
+2025-08-22 00:46:55,375 - root - INFO - Chrome Browser Launched
+2025-08-22 00:46:55,962 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:46:55,962 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:46:55,966 - root - INFO - ***** test_application_title Started *****
+2025-08-22 00:46:55,966 - root - INFO - ***** test_application_title Started *****
+2025-08-22 00:46:57,265 - root - INFO - *****test_login_scenarios started*****
+2025-08-22 00:46:57,265 - root - INFO - *****test_login_scenarios started*****
+2025-08-22 00:46:59,596 - root - INFO - test_login_scenarios passed
+2025-08-22 00:46:59,596 - root - INFO - test_login_scenarios passed
+2025-08-22 00:46:59,596 - root - INFO - *****test_login_scenarios Completed*****
+2025-08-22 00:46:59,596 - root - INFO - *****test_login_scenarios Completed*****
+2025-08-22 00:47:01,830 - root - INFO - Browser closed
+2025-08-22 00:47:01,830 - root - INFO - Browser closed
+2025-08-22 00:50:53,415 - root - INFO - Chrome Browser Launched
+2025-08-22 00:50:53,415 - root - INFO - Chrome Browser Launched
+2025-08-22 00:50:54,484 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:50:54,484 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:50:54,485 - root - INFO - ***** test_application_title Started *****
+2025-08-22 00:50:54,485 - root - INFO - ***** test_application_title Started *****
+2025-08-22 00:50:54,576 - root - INFO - *****test_login_scenarios started*****
+2025-08-22 00:50:54,576 - root - INFO - *****test_login_scenarios started*****
+2025-08-22 00:50:57,221 - root - INFO - test_login_scenarios passed
+2025-08-22 00:50:57,221 - root - INFO - test_login_scenarios passed
+2025-08-22 00:50:57,222 - root - INFO - *****test_login_scenarios Completed*****
+2025-08-22 00:50:57,222 - root - INFO - *****test_login_scenarios Completed*****
+2025-08-22 00:50:59,474 - root - INFO - Browser closed
+2025-08-22 00:50:59,474 - root - INFO - Browser closed
+2025-08-22 00:55:51,605 - root - INFO - Chrome Browser Launched
+2025-08-22 00:55:51,605 - root - INFO - Chrome Browser Launched
+2025-08-22 00:55:52,434 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:55:52,434 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:55:52,436 - root - INFO - ***** test_application_title Started *****
+2025-08-22 00:55:52,436 - root - INFO - ***** test_application_title Started *****
+2025-08-22 00:55:54,736 - root - INFO - Browser closed
+2025-08-22 00:55:54,736 - root - INFO - Browser closed
+2025-08-22 00:55:56,047 - root - INFO - Chrome Browser Launched
+2025-08-22 00:55:56,047 - root - INFO - Chrome Browser Launched
+2025-08-22 00:55:56,413 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:55:56,413 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 00:55:56,413 - root - INFO - *****test_login_scenarios started*****
+2025-08-22 00:55:56,413 - root - INFO - *****test_login_scenarios started*****
+2025-08-22 00:56:00,766 - root - INFO - Browser closed
+2025-08-22 00:56:00,766 - root - INFO - Browser closed

@@ -1,0 +1,4 @@
+[32mINFO    [0m root:test_login.py:26 *****test_login_scenarios started*****
+[32mINFO    [0m root:test_login.py:36 test_login_scenarios passed
+[32mINFO    [0m root:test_login.py:37 *****test_login_scenarios Completed*****
+[32mINFO    [0m root:config_test.py:50 Browser closed

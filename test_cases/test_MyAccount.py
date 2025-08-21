@@ -24,7 +24,7 @@ class TestMyAccount:
             SeleniumUtilities.enter_text(self, self.login_page.get_textbox_password_login(), Readconfig.get_password())
             self.login_page.get_button_submit_login().click()
             self.log.info("test login successful")
-
+            a = 5 / 0
             self.my_account_page = MyAccountPageControls(self.driver)
             self.my_account_page.get_link_edit_account_info().click()
             SeleniumUtilities.enter_text(self, self.my_account_page.get_textbox_firstname_edit_info(), "Firstname")
