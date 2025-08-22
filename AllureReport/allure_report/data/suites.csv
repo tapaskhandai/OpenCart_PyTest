@@ -1,3 +1,4 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","5","test_application_title","test_cases","Fri Aug 22 17:23:32 IST 2025","failed","Fri Aug 22 17:23:32 IST 2025","TestLogin","test_login","",""
-"","1364","test_login_scenarios","test_cases","Fri Aug 22 17:23:37 IST 2025","passed","Fri Aug 22 17:23:38 IST 2025","TestLogin","test_login","",""
+"","1615","test_edit_your_account_info","test_cases","Fri Aug 22 23:38:47 IST 2025","broken","Fri Aug 22 23:38:48 IST 2025","TestMyAccount","test_MyAccount","",""
+"","2395","test_change_password_negative","test_cases","Fri Aug 22 23:38:54 IST 2025","passed","Fri Aug 22 23:38:56 IST 2025","TestMyAccount","test_MyAccount","",""
+"","4844","test_login_ddt","test_cases","Fri Aug 22 23:29:15 IST 2025","passed","Fri Aug 22 23:29:20 IST 2025","TestLoginDDT","test_login_ddt","",""
