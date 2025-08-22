@@ -3,7 +3,7 @@ from allure_commons.types import AttachmentType
 
 from page_objects_controls.LoginPageControls import LoginPageControls
 from page_objects_controls.MyAccountPageControls import MyAccountPageControls
-from test_cases.configTest import *
+from test_cases.conftest import *
 from utilities.readProperties import Readconfig
 from utilities.customLogger import LogGenerator
 from utilities.XLUtils import *

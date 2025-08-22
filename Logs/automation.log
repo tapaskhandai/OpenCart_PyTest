@@ -422,3 +422,160 @@
 2025-08-22 00:55:56,413 - root - INFO - *****test_login_scenarios started*****
 2025-08-22 00:56:00,766 - root - INFO - Browser closed
 2025-08-22 00:56:00,766 - root - INFO - Browser closed
+2025-08-22 01:01:54,079 - root - INFO - Chrome Browser Launched
+2025-08-22 01:01:54,079 - root - INFO - Chrome Browser Launched
+2025-08-22 01:01:55,171 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 01:01:55,171 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 01:01:55,171 - root - INFO - ***** test_application_title Started *****
+2025-08-22 01:01:55,171 - root - INFO - ***** test_application_title Started *****
+2025-08-22 01:01:57,347 - root - INFO - Browser closed
+2025-08-22 01:01:57,347 - root - INFO - Browser closed
+2025-08-22 01:01:58,546 - root - INFO - Chrome Browser Launched
+2025-08-22 01:01:58,546 - root - INFO - Chrome Browser Launched
+2025-08-22 01:01:59,732 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 01:01:59,732 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 01:01:59,732 - root - INFO - *****test_login_scenarios started*****
+2025-08-22 01:01:59,732 - root - INFO - *****test_login_scenarios started*****
+2025-08-22 01:02:04,945 - root - INFO - Browser closed
+2025-08-22 01:02:04,945 - root - INFO - Browser closed
+2025-08-22 01:02:24,953 - root - INFO - Chrome Browser Launched
+2025-08-22 01:02:24,953 - root - INFO - Chrome Browser Launched
+2025-08-22 01:02:25,987 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 01:02:25,987 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 01:02:25,987 - root - INFO - ***** test_application_title Started *****
+2025-08-22 01:02:25,987 - root - INFO - ***** test_application_title Started *****
+2025-08-22 01:02:28,233 - root - INFO - Browser closed
+2025-08-22 01:02:28,233 - root - INFO - Browser closed
+2025-08-22 01:02:29,465 - root - INFO - Chrome Browser Launched
+2025-08-22 01:02:29,465 - root - INFO - Chrome Browser Launched
+2025-08-22 01:02:29,879 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 01:02:29,879 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 01:02:29,880 - root - INFO - *****test_login_scenarios started*****
+2025-08-22 01:02:29,880 - root - INFO - *****test_login_scenarios started*****
+2025-08-22 01:02:33,115 - root - INFO - test_login_scenarios passed
+2025-08-22 01:02:33,115 - root - INFO - test_login_scenarios passed
+2025-08-22 01:02:33,115 - root - INFO - *****test_login_scenarios Completed*****
+2025-08-22 01:02:33,115 - root - INFO - *****test_login_scenarios Completed*****
+2025-08-22 01:02:35,368 - root - INFO - Browser closed
+2025-08-22 01:02:35,368 - root - INFO - Browser closed
+2025-08-22 09:39:53,409 - root - INFO - Chrome Browser Launched
+2025-08-22 09:39:53,409 - root - INFO - Chrome Browser Launched
+2025-08-22 09:39:55,392 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 09:39:55,392 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 09:39:55,394 - root - INFO - ***** test_application_title Started *****
+2025-08-22 09:39:55,394 - root - INFO - ***** test_application_title Started *****
+2025-08-22 09:39:57,796 - root - INFO - Browser closed
+2025-08-22 09:39:57,796 - root - INFO - Browser closed
+2025-08-22 09:39:58,842 - root - INFO - Chrome Browser Launched
+2025-08-22 09:39:58,842 - root - INFO - Chrome Browser Launched
+2025-08-22 09:39:59,964 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 09:39:59,964 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 09:39:59,965 - root - INFO - *****test_login_scenarios started*****
+2025-08-22 09:39:59,965 - root - INFO - *****test_login_scenarios started*****
+2025-08-22 09:40:04,700 - root - INFO - Browser closed
+2025-08-22 09:40:04,700 - root - INFO - Browser closed
+2025-08-22 09:45:53,583 - root - INFO - Chrome Browser Launched
+2025-08-22 09:45:53,583 - root - INFO - Chrome Browser Launched
+2025-08-22 09:45:55,829 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 09:45:55,829 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 09:45:55,831 - root - INFO - ***** test_application_title Started *****
+2025-08-22 09:45:55,831 - root - INFO - ***** test_application_title Started *****
+2025-08-22 09:45:58,010 - root - INFO - Browser closed
+2025-08-22 09:45:58,010 - root - INFO - Browser closed
+2025-08-22 09:45:59,092 - root - INFO - Chrome Browser Launched
+2025-08-22 09:45:59,092 - root - INFO - Chrome Browser Launched
+2025-08-22 09:46:00,254 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 09:46:00,254 - root - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 09:46:00,255 - root - INFO - *****test_login_scenarios started*****
+2025-08-22 09:46:00,255 - root - INFO - *****test_login_scenarios started*****
+2025-08-22 09:46:03,831 - root - INFO - Browser closed
+2025-08-22 09:46:03,831 - root - INFO - Browser closed
+2025-08-22 09:57:50,493 - automationLogger - INFO - Chrome Browser Launched
+2025-08-22 09:57:52,202 - automationLogger - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 09:57:52,203 - automationLogger - INFO - ***** test_application_title Started *****
+2025-08-22 09:57:54,360 - automationLogger - INFO - Browser closed
+2025-08-22 09:57:55,455 - automationLogger - INFO - Chrome Browser Launched
+2025-08-22 09:57:56,860 - automationLogger - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 09:57:56,860 - automationLogger - INFO - *****test_login_scenarios started*****
+2025-08-22 09:58:00,422 - automationLogger - INFO - Browser closed
+2025-08-22 10:01:18,964 - automationLogger - INFO - Chrome Browser Launched
+2025-08-22 10:01:20,556 - automationLogger - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 10:01:20,557 - automationLogger - INFO - ***** test_application_title Started *****
+2025-08-22 10:01:20,603 - automationLogger - INFO - failed here
+2025-08-22 10:01:20,807 - automationLogger - INFO - taken screenshot
+2025-08-22 10:01:20,807 - automationLogger - INFO - attached screenshot
+2025-08-22 10:01:22,950 - automationLogger - INFO - Browser closed
+2025-08-22 10:01:24,044 - automationLogger - INFO - Chrome Browser Launched
+2025-08-22 10:01:25,237 - automationLogger - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 10:01:25,238 - automationLogger - INFO - *****test_login_scenarios started*****
+2025-08-22 10:01:26,618 - automationLogger - INFO - failed here
+2025-08-22 10:01:26,748 - automationLogger - INFO - taken screenshot
+2025-08-22 10:01:26,749 - automationLogger - INFO - attached screenshot
+2025-08-22 10:01:28,863 - automationLogger - INFO - Browser closed
+2025-08-22 17:11:15,441 - automationLogger - INFO - Edge Browser Launched
+2025-08-22 17:11:17,288 - automationLogger - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 17:11:17,289 - automationLogger - INFO - ***** test_application_title Started *****
+2025-08-22 17:11:17,411 - automationLogger - INFO - failed here
+2025-08-22 17:11:17,614 - automationLogger - INFO - taken screenshot
+2025-08-22 17:11:17,615 - automationLogger - INFO - attached screenshot
+2025-08-22 17:11:19,810 - automationLogger - INFO - Browser closed
+2025-08-22 17:11:20,965 - automationLogger - INFO - Edge Browser Launched
+2025-08-22 17:11:22,153 - automationLogger - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 17:11:22,154 - automationLogger - INFO - *****test_login_scenarios started*****
+2025-08-22 17:11:25,289 - automationLogger - INFO - test_login_scenarios passed
+2025-08-22 17:11:25,289 - automationLogger - INFO - *****test_login_scenarios Completed*****
+2025-08-22 17:11:27,513 - automationLogger - INFO - Browser closed
+2025-08-22 17:16:05,434 - automationLogger - INFO - Chrome Browser Launched
+2025-08-22 17:16:07,073 - automationLogger - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 17:16:07,074 - automationLogger - INFO - ***** test_application_title Started *****
+2025-08-22 17:16:07,140 - automationLogger - INFO - failed here
+2025-08-22 17:16:07,356 - automationLogger - INFO - taken screenshot
+2025-08-22 17:16:07,357 - automationLogger - INFO - attached screenshot
+2025-08-22 17:16:09,557 - automationLogger - INFO - Browser closed
+2025-08-22 17:16:10,811 - automationLogger - INFO - Chrome Browser Launched
+2025-08-22 17:16:11,941 - automationLogger - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 17:16:11,941 - automationLogger - INFO - *****test_login_scenarios started*****
+2025-08-22 17:16:13,621 - automationLogger - INFO - failed here
+2025-08-22 17:16:13,776 - automationLogger - INFO - taken screenshot
+2025-08-22 17:16:13,777 - automationLogger - INFO - attached screenshot
+2025-08-22 17:16:15,933 - automationLogger - INFO - Browser closed
+2025-08-22 17:22:06,704 - automationLogger - INFO - Chrome Browser Launched
+2025-08-22 17:22:07,158 - automationLogger - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 17:22:07,159 - automationLogger - INFO - ***** test_application_title Started *****
+2025-08-22 17:22:07,882 - automationLogger - INFO - failed here
+2025-08-22 17:22:08,152 - automationLogger - INFO - taken screenshot
+2025-08-22 17:22:08,153 - automationLogger - INFO - attached screenshot
+2025-08-22 17:22:10,328 - automationLogger - INFO - Browser closed
+2025-08-22 17:22:11,561 - automationLogger - INFO - Chrome Browser Launched
+2025-08-22 17:22:12,763 - automationLogger - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 17:22:12,763 - automationLogger - INFO - *****test_login_scenarios started*****
+2025-08-22 17:22:14,311 - automationLogger - INFO - failed here
+2025-08-22 17:22:14,500 - automationLogger - INFO - taken screenshot
+2025-08-22 17:22:14,501 - automationLogger - INFO - attached screenshot
+2025-08-22 17:22:16,704 - automationLogger - INFO - Browser closed
+2025-08-22 17:23:31,023 - automationLogger - INFO - Chrome Browser Launched
+2025-08-22 17:23:32,151 - automationLogger - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 17:23:32,152 - automationLogger - INFO - ***** test_application_title Started *****
+2025-08-22 17:23:32,223 - automationLogger - INFO - failed here
+2025-08-22 17:23:32,493 - automationLogger - INFO - taken screenshot
+2025-08-22 17:23:32,494 - automationLogger - INFO - attached screenshot
+2025-08-22 17:23:34,712 - automationLogger - INFO - Browser closed
+2025-08-22 17:23:35,871 - automationLogger - INFO - Chrome Browser Launched
+2025-08-22 17:23:37,053 - automationLogger - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 17:23:37,054 - automationLogger - INFO - *****test_login_scenarios started*****
+2025-08-22 17:23:38,418 - automationLogger - INFO - test_login_scenarios passed
+2025-08-22 17:23:38,418 - automationLogger - INFO - *****test_login_scenarios Completed*****
+2025-08-22 17:23:40,661 - automationLogger - INFO - Browser closed
+2025-08-22 17:24:47,994 - automationLogger - INFO - Chrome Browser Launched
+2025-08-22 17:24:51,364 - automationLogger - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 17:24:51,366 - automationLogger - INFO - ***** test_application_title Started *****
+2025-08-22 17:24:51,433 - automationLogger - INFO - failed here
+2025-08-22 17:24:51,607 - automationLogger - INFO - taken screenshot
+2025-08-22 17:24:51,608 - automationLogger - INFO - attached screenshot
+2025-08-22 17:24:53,804 - automationLogger - INFO - Browser closed
+2025-08-22 17:24:55,051 - automationLogger - INFO - Chrome Browser Launched
+2025-08-22 17:24:56,301 - automationLogger - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 17:24:56,302 - automationLogger - INFO - *****test_login_scenarios started*****
+2025-08-22 17:24:58,101 - automationLogger - INFO - test_login_scenarios passed
+2025-08-22 17:24:58,101 - automationLogger - INFO - *****test_login_scenarios Completed*****
+2025-08-22 17:25:00,285 - automationLogger - INFO - Browser closed

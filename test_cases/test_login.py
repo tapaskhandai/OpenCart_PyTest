@@ -1,7 +1,11 @@
 import time
 
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.wait import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+
 from page_objects_controls.LoginPageControls import LoginPageControls
-from test_cases.config_test import *
+from test_cases.conftest import *
 from utilities.customLogger import LogGenerator
 from utilities.readProperties import Readconfig
 from utilities.seleniumUtilities import SeleniumUtilities
@@ -30,8 +34,8 @@ class TestLogin:
         SeleniumUtilities.enter_text(self, self.login_page.get_textbox_email_login(), Readconfig.get_username())
         SeleniumUtilities.enter_text(self, self.login_page.get_textbox_password_login(), Readconfig.get_password())
         self.login_page.get_button_submit_login().click()
+        WebDriverWait(self.driver, 5).until(EC.presence_of_element_located((By.XPATH, "//a[text()='Qafox.com']")))
         actual_title = self.driver.title
-        time.sleep(1)
         assert actual_title == "My Account"
         self.log.info("test_login_scenarios passed")
         self.log.info("*****test_login_scenarios Completed*****")
