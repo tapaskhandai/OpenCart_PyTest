@@ -1,0 +1,5 @@
+[32mINFO    [0m automationLogger:conftest.py:24 Chrome Browser Launched
+[32mINFO    [0m automationLogger:conftest.py:42 Navigated to URL: https://tutorialsninja.com/demo/
+[32mINFO    [0m automationLogger:test_MyAccount.py:19 ***** test_edit_your_account_info Started *****
+[32mINFO    [0m automationLogger:test_MyAccount.py:27 test login successful
+[32mINFO    [0m automationLogger:conftest.py:50 Browser closed

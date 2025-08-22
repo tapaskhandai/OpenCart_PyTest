@@ -579,3 +579,57 @@
 2025-08-22 17:24:58,101 - automationLogger - INFO - test_login_scenarios passed
 2025-08-22 17:24:58,101 - automationLogger - INFO - *****test_login_scenarios Completed*****
 2025-08-22 17:25:00,285 - automationLogger - INFO - Browser closed
+2025-08-22 23:23:59,334 - automationLogger - INFO - Chrome Browser Launched
+2025-08-22 23:24:01,297 - automationLogger - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 23:24:01,299 - automationLogger - INFO - ***** test_application_title Started *****
+2025-08-22 23:24:01,464 - automationLogger - INFO - failed here
+2025-08-22 23:24:01,643 - automationLogger - INFO - taken screenshot
+2025-08-22 23:24:01,644 - automationLogger - INFO - attached screenshot
+2025-08-22 23:24:03,851 - automationLogger - INFO - Browser closed
+2025-08-22 23:24:05,016 - automationLogger - INFO - Chrome Browser Launched
+2025-08-22 23:24:06,610 - automationLogger - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 23:24:06,612 - automationLogger - INFO - *****test_login_scenarios started*****
+2025-08-22 23:24:09,164 - automationLogger - INFO - test_login_scenarios passed
+2025-08-22 23:24:09,165 - automationLogger - INFO - *****test_login_scenarios Completed*****
+2025-08-22 23:24:11,324 - automationLogger - INFO - Browser closed
+2025-08-22 23:27:37,998 - automationLogger - INFO - Chrome Browser Launched
+2025-08-22 23:27:40,268 - automationLogger - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 23:27:40,269 - automationLogger - INFO - *****test_login_ddt Started*****
+2025-08-22 23:27:41,651 - automationLogger - INFO - Login Successful
+2025-08-22 23:27:41,651 - automationLogger - INFO - test_login_ddt Passed
+2025-08-22 23:27:42,857 - automationLogger - INFO - *****test_login_ddt Completed*****
+2025-08-22 23:27:43,108 - automationLogger - INFO - Login Unsuccessful
+2025-08-22 23:27:43,108 - automationLogger - INFO - test_login_ddt Passed
+2025-08-22 23:27:43,108 - automationLogger - INFO - *****test_login_ddt Completed*****
+2025-08-22 23:27:44,969 - automationLogger - INFO - Login Unsuccessful
+2025-08-22 23:27:44,969 - automationLogger - INFO - test_login_ddt Passed
+2025-08-22 23:27:44,969 - automationLogger - INFO - *****test_login_ddt Completed*****
+2025-08-22 23:27:47,194 - automationLogger - INFO - Browser closed
+2025-08-22 23:29:14,047 - automationLogger - INFO - Chrome Browser Launched
+2025-08-22 23:29:15,456 - automationLogger - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 23:29:15,457 - automationLogger - INFO - *****test_login_ddt Started*****
+2025-08-22 23:29:16,947 - automationLogger - INFO - Login Successful
+2025-08-22 23:29:16,947 - automationLogger - INFO - test_login_ddt Passed
+2025-08-22 23:29:18,078 - automationLogger - INFO - *****test_login_ddt Completed*****
+2025-08-22 23:29:18,968 - automationLogger - INFO - Login Unsuccessful
+2025-08-22 23:29:18,970 - automationLogger - INFO - test_login_ddt Passed
+2025-08-22 23:29:18,970 - automationLogger - INFO - *****test_login_ddt Completed*****
+2025-08-22 23:29:20,300 - automationLogger - INFO - Login Unsuccessful
+2025-08-22 23:29:20,300 - automationLogger - INFO - test_login_ddt Passed
+2025-08-22 23:29:20,300 - automationLogger - INFO - *****test_login_ddt Completed*****
+2025-08-22 23:29:23,550 - automationLogger - INFO - Browser closed
+2025-08-22 23:38:46,574 - automationLogger - INFO - Chrome Browser Launched
+2025-08-22 23:38:47,209 - automationLogger - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 23:38:47,211 - automationLogger - INFO - ***** test_edit_your_account_info Started *****
+2025-08-22 23:38:48,825 - automationLogger - INFO - test login successful
+2025-08-22 23:38:48,894 - automationLogger - INFO - failed here
+2025-08-22 23:38:49,807 - automationLogger - INFO - taken screenshot
+2025-08-22 23:38:49,808 - automationLogger - INFO - attached screenshot
+2025-08-22 23:38:51,965 - automationLogger - INFO - Browser closed
+2025-08-22 23:38:53,169 - automationLogger - INFO - Chrome Browser Launched
+2025-08-22 23:38:54,500 - automationLogger - INFO - Navigated to URL: https://tutorialsninja.com/demo/
+2025-08-22 23:38:54,501 - automationLogger - INFO - *****test_change_password_negative*****
+2025-08-22 23:38:55,288 - automationLogger - INFO - test login successful
+2025-08-22 23:38:56,896 - automationLogger - INFO - test_change_password_negative is Passed
+2025-08-22 23:38:56,896 - automationLogger - INFO - *****test_change_password_negative Completed*****
+2025-08-22 23:38:59,046 - automationLogger - INFO - Browser closed

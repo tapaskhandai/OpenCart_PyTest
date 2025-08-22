@@ -1,15 +1,13 @@
-import time
-
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.wait import WebDriverWait
+from selenium.webdriver.remote.webdriver import WebDriver
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.wait import WebDriverWait
 
 from page_objects_controls.LoginPageControls import LoginPageControls
 from test_cases.conftest import *
 from utilities.customLogger import LogGenerator
 from utilities.readProperties import Readconfig
 from utilities.seleniumUtilities import SeleniumUtilities
-from selenium.webdriver.remote.webdriver import WebDriver
 
 
 @pytest.mark.usefixtures("setup")  # Automatically use the setup fixture
@@ -31,11 +29,11 @@ class TestLogin:
         self.login_page = LoginPageControls(self.driver)
         self.login_page.get_link_my_account().click()
         self.login_page.get_link_login_my_account().click()
-        SeleniumUtilities.enter_text(self, self.login_page.get_textbox_email_login(), Readconfig.get_username())
-        SeleniumUtilities.enter_text(self, self.login_page.get_textbox_password_login(), Readconfig.get_password())
+        SeleniumUtilities.enter_text(self.login_page.get_textbox_email_login(), Readconfig.get_username())
+        SeleniumUtilities.enter_text(self.login_page.get_textbox_password_login(), Readconfig.get_password())
         self.login_page.get_button_submit_login().click()
         WebDriverWait(self.driver, 5).until(EC.presence_of_element_located((By.XPATH, "//a[text()='Qafox.com']")))
-        actual_title = self.driver.title
+        actual_title = SeleniumUtilities.get_title(self.driver)
         assert actual_title == "My Account"
         self.log.info("test_login_scenarios passed")
         self.log.info("*****test_login_scenarios Completed*****")

@@ -1,0 +1,7 @@
+[32mINFO    [0m automationLogger:conftest.py:24 Chrome Browser Launched
+[32mINFO    [0m automationLogger:conftest.py:42 Navigated to URL: https://tutorialsninja.com/demo/
+[32mINFO    [0m automationLogger:test_MyAccount.py:44 *****test_change_password_negative*****
+[32mINFO    [0m automationLogger:test_MyAccount.py:52 test login successful
+[32mINFO    [0m automationLogger:test_MyAccount.py:61 test_change_password_negative is Passed
+[32mINFO    [0m automationLogger:test_MyAccount.py:63 *****test_change_password_negative Completed*****
+[32mINFO    [0m automationLogger:conftest.py:50 Browser closed

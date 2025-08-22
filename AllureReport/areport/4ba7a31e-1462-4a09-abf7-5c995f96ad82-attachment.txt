@@ -1,0 +1,13 @@
+[32mINFO    [0m automationLogger:conftest.py:24 Chrome Browser Launched
+[32mINFO    [0m automationLogger:conftest.py:42 Navigated to URL: https://tutorialsninja.com/demo/
+[32mINFO    [0m automationLogger:test_login_ddt.py:22 *****test_login_ddt Started*****
+[32mINFO    [0m automationLogger:test_login_ddt.py:38 Login Successful
+[32mINFO    [0m automationLogger:test_login_ddt.py:39 test_login_ddt Passed
+[32mINFO    [0m automationLogger:test_login_ddt.py:53 *****test_login_ddt Completed*****
+[32mINFO    [0m automationLogger:test_login_ddt.py:48 Login Unsuccessful
+[32mINFO    [0m automationLogger:test_login_ddt.py:49 test_login_ddt Passed
+[32mINFO    [0m automationLogger:test_login_ddt.py:53 *****test_login_ddt Completed*****
+[32mINFO    [0m automationLogger:test_login_ddt.py:48 Login Unsuccessful
+[32mINFO    [0m automationLogger:test_login_ddt.py:49 test_login_ddt Passed
+[32mINFO    [0m automationLogger:test_login_ddt.py:53 *****test_login_ddt Completed*****
+[32mINFO    [0m automationLogger:conftest.py:50 Browser closed

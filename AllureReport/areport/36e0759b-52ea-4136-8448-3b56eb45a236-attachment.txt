@@ -1,5 +1,0 @@
-[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:137 There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_139_WINDOWS)); using driver found in the cache
-[32mINFO    [0m root:config_test.py:39 Edge Browser Launched
-[32mINFO    [0m root:config_test.py:47 Navigated to URL: https://tutorialsninja.com/demo/
-[32mINFO    [0m root:test_login.py:26 *****test_login_scenarios started*****
-[32mINFO    [0m root:config_test.py:54 Browser closed
