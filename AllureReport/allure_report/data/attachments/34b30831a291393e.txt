@@ -1,0 +1,6 @@
+[32mINFO    [0m automationLogger:conftest.py:33 Edge Browser Launched
+[32mINFO    [0m automationLogger:conftest.py:42 Navigated to URL: https://tutorialsninja.com/demo/
+[32mINFO    [0m automationLogger:test_login.py:26 *****test_login_scenarios started*****
+[32mINFO    [0m automationLogger:test_login.py:36 test_login_scenarios passed
+[32mINFO    [0m automationLogger:test_login.py:37 *****test_login_scenarios Completed*****
+[32mINFO    [0m automationLogger:conftest.py:50 Browser closed
